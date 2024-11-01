@@ -1,0 +1,11 @@
+{
+  "author" : "Ceterai",
+  "description" : "This tiny mod changes alta body type to almost completely flat.\n\nA few pixels different from the original, but some people might prefer this variant instead.",
+  "friendlyName" : "Flat Alta Body Type",
+  "includes" : ["my_enternia", "MyEnternia", "My Enternia"],
+  "link" : "steam://url/CommunityFilePage/3290885714",
+  "name" : "FlatAltaBodyType",
+  "steamContentId" : "3290885714",
+  "tags" : "Species",
+  "version" : "1.0"
+}
